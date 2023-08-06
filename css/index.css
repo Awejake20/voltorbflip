@@ -20,7 +20,13 @@ body {
 #header {
   width: 100vw;
   height: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
   background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #outer-text-box {
