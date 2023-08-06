@@ -14,17 +14,17 @@ body {
   background-image: url("../img/grid.svg");
   width: 564px;
   height: 567px;
-  margin: 6px;
+  margin: auto;
 }
 
 #header {
-  width: 1920px;
+  width: 100vw;
   height: 100px;
-  color: black;
+  background-color: black;
 }
 
 #outer-text-box {
-  width: 1914px;
+  width: 98vw;
   height: 94px;
   border-color: white;
   border-width: 6px;
