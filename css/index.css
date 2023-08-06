@@ -8,7 +8,7 @@ body {
 }
 
 #square {
-  background-color: red;
+  background-image: url("../img/grid.svg");
   width: 200px;
   height: 200px;
 }
