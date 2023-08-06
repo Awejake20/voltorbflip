@@ -12,20 +12,21 @@ body {
 
 #grid {
   background-image: url("../img/grid.svg");
-  width: 376px;
-  height: 378px;
+  width: 564px;
+  height: 567px;
   margin: auto auto;
 }
 
 #header {
-  width: 100vw;
+  width: 1920px;
   height: 100px;
   color: black;
 }
 
 #outer-text-box {
-  width: 100vw - 6px;
+  width: 1914px;
   height: 94px;
   border-color: white;
+  border-width: 6px;
   background-color: #28A269;
 }
