@@ -4,17 +4,17 @@ body {
 
 #table {
   background-color: #28A269;
-  width: 50vw;
-  height: 50vh;
-  margin: auto auto;
-  border-radius: 1px;
+  width: 600;
+  height: 600;
+  margin: auto;
+  border-radius: 3px;
 }
 
 #grid {
   background-image: url("../img/grid.svg");
   width: 564px;
   height: 567px;
-  margin: auto auto;
+  margin: 6px;
 }
 
 #header {
