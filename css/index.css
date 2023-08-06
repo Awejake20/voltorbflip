@@ -7,6 +7,7 @@ body {
   width: 50vw;
   height: 50vh;
   margin: auto auto;
+  border-radius: 1px;
 }
 
 #grid {
@@ -14,4 +15,17 @@ body {
   width: 376px;
   height: 378px;
   margin: auto auto;
+}
+
+#header {
+  width: 100vw;
+  height: 100px;
+  color: black;
+}
+
+#outer-text-box {
+  width: 100vw - 6px;
+  height: 94px;
+  border-color: white;
+  background-color: #28A269;
 }
