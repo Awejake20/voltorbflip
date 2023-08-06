@@ -3,13 +3,15 @@ body {
 }
 
 #table {
-  background-image: url("../img/grid.svg");
-  width: 200px;
-  height: 200px;
+  background-color: #28A269;
+  width: 50vw;
+  height: 50vh;
+  margin: auto auto;
 }
 
-#square {
+#grid {
   background-image: url("../img/grid.svg");
-  width: 200px;
-  height: 200px;
+  width: 376px;
+  height: 378px;
+  margin: auto auto;
 }
