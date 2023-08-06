@@ -4,4 +4,5 @@ body {
 
 #table {
   background-image: url("../img/grid.svg");
+  background-color: red;
 }
